@@ -6,5 +6,7 @@ namespace PFK;
 
 class Prime
 {
-  public function generate();
+  public function generate()
+  {
+  }
 }
